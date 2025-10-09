@@ -8,6 +8,7 @@
   - [Static Bearing Mod](#static-bearing-mod)
   - [Static Bearing Mod - with screws](#static-bearing-mod---with-screws)
     - [Upgraded inserts for the Static Bearing Mod](#upgraded-inserts-for-the-static-bearing-mod)
+  - [12mm Bosch BTU](#12mm-bosch-btu)
   - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
   - [Alternative sensors](#alternative-sensors)
   - [Snapfit PCB Case](#snapfit-pcb-case)

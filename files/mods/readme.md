@@ -114,6 +114,8 @@ Print and snap off supports. Sand the burrs if necessary.
 
 This is an adapter for the BALL TRANSFER UNIT KU-B8-OFK R053010810 from Bosch Rexroth.
 
+The barrel of this model is 12.6mm in diameter, with a 17mm flange which presented some challenges in creating enough space and keeping the trackball the proper distance from the sensor.
+
 See files in `mods/12_6mm-btu-bottom-bracket`.
 
 ## Trackpad mod for the Charybdis

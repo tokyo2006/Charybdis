@@ -119,6 +119,8 @@ The barrel of this model is 12.6mm in diameter, with a 17mm flange which present
 
 See files in `mods/12_6mm-btu-bottom-bracket`.
 
+![](./12_6mm-btu-bottom-bracket/images/Detailed_pic.jpg)
+
 ## Trackpad mod for the Charybdis
 
 Print the 2 files in the `mods/trackpad/trackball-holder` folder. Install in place of the trackball holder.

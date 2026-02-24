@@ -36,16 +36,15 @@ There are two versions available for the Charybdis 4x6: `MK1`, and `MK2`. You ca
 In the below table are listed the required files to construct the `MK2`, as that's the one most up to date.
 The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
 
-| Description      | File                    | Notes                                                                                           |
-| ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
-| Right case       | `4x6/MK2/charybdis.stl`     |                                                                                             |
-| Left case        |                         | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
-| Right plate      | `4x6//MK2/plate_shield2.stl` |                                                                                            |
-| Left plate       |                         | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
-| Adapter - top    | `4x6/adapter_top.stl`   | There is a different adapter for the 4x6 and 3x5, make sure to grab the one in the 4x6 folder ! |
-| Adapter - bottom | `adapter_bottom.stl`    |                                                                                                 |
-| Tent - right     | `4x6/tent_alien.stl`    | Optional 30 degree tent*                                                                        |
-| Tent - left      | `4x6/tent_alien.stl`    | Optional 30 degree tent, mirror the file for left*                                              |
+| Description      | File                         | Notes                                                                                           |
+| ---------------- | ---------------------------- | ----------------------------------------------------------------------------------------------- |
+| Right case       | `4x6/MK2/charybdis.stl`      |                                                                                                 |
+| Left case        |                              | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
+| Right plate      | `4x6//MK2/plate_shield2.stl` |                                                                                                 |
+| Left plate       |                              | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
+| Adapter - top    | `4x6/adapter_top.stl`        | There is a different adapter for the 4x6 and 3x5, make sure to grab the one in the 4x6 folder ! |
+| Adapter - bottom | `adapter_bottom.stl`         |                                                                                                 |
+| Tent - right     | `4x6/tent_alien.stl`         | Optional 30 degree tent*                                                                        |
 
 *The 30 degree tents are compatible with both Charybdis MK1 and MK2.
 
@@ -59,8 +58,8 @@ The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
 | Left plate       |                            | Download from the [TBK Mini repository](https://github.com/bastardkb/tbk-Mini), mirror the file for left |
 | Adapter - top    | `3x5 nano/adapter_top.stl` | The 3x6 Mini uses the same top adapter as the 3x5 Nano                                                   |
 | Adapter - bottom | `adapter_bottom.stl`       |                                                                                                          |
-| Tent - right     | `3x6 mini/tent.stl`        | Optional tent*                                                                            |
-| Tent - left      | `3x6 mini/tent.stl`        | Optional tent, mirror the file for left*                                                        |
+| Tent - right     | `3x6 mini/tent.stl`        | Optional tent*                                                                                           |
+| Tent - left      | `3x6 mini/tent.stl`        | Optional tent, mirror the file for left*                                                                 |
 
 *If you are printing tents for the Charybdis Mini, there are both 30 and 5 degree versions available.
 
